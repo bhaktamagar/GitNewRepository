@@ -1,4 +1,4 @@
-package GitStatus;
+package gitStatus;
 
 public class StatusCheck {
 
